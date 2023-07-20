@@ -1,4 +1,4 @@
-package Exercise5;
+package JavaInheritance.Exercise5;
 
 public class BankAccount {
     private String accountNumber;

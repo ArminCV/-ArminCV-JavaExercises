@@ -1,4 +1,4 @@
-package Exercise2;
+package JavaInheritance.Exercise2;
 
 public class Car extends Vehicle{
     @Override

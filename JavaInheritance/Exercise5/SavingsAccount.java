@@ -1,4 +1,4 @@
-package Exercise5;
+package JavaInheritance.Exercise5;
 
 public class SavingsAccount extends BankAccount{
 

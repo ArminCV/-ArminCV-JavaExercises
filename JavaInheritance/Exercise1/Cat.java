@@ -1,8 +1,9 @@
-package Exercise1;
-
 public class Cat extends Animal{
+
+    @Override
     public void makeSound()
     {
-        System.out.println("Meow");
+        System.out.println("The cat quarrels.");
     }
+    
 }

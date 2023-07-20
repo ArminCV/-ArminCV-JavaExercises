@@ -1,4 +1,4 @@
-package Exercise4;
+package JavaInheritance.Exercise4;
 
 public class Main {
     public static void main(String[] args) {

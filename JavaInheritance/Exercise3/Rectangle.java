@@ -1,4 +1,4 @@
-package Exercise3;
+package JavaInheritance.Exercise3;
 
 public class Rectangle extends Shape{
     private double length;
