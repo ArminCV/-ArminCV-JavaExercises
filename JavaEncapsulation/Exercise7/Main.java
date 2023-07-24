@@ -1,4 +1,4 @@
-package JavaEncapsulation.Excercise7;
+package JavaEncapsulation.Exercise7;
 
 import java.util.List;
 

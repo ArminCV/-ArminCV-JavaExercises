@@ -1,4 +1,4 @@
-package JavaEncapsulation.Excercise6;
+package JavaEncapsulation.Exercise6;
 
 public class Car {
 
